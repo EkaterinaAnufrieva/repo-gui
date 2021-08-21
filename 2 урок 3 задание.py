@@ -8,4 +8,6 @@ print(my_dict[key])  # решение через словарь
 
 my_list = [a, a, b, b, b, c, c, c, d, d, d, a]  # решение через словарь
 
-print(my_list[int(key)-1])  # минус один, потому что индексация значений в словаре начинается с 0
+print(my_list[int(key)-1])  
+
+# 3 zadanie

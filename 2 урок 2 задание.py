@@ -8,3 +8,4 @@ if len_list > 1:
         i+= 2
 print(input_list)
 
+#2 zadanie

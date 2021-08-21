@@ -12,3 +12,5 @@ if not inserted:
     raiting_list.append(raiting)
 
 print(raiting_list)
+
+#5 zadanie

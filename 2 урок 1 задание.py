@@ -3,3 +3,4 @@ print(f'Создан список с типом {type(z)}')
 print("Проверка типа данных каждого элемента:")
 for i in z:
     print(type(i))
+#1 zadanie
