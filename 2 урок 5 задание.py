@@ -11,4 +11,4 @@ for index, elem in enumerate(raiting_list):
 if not inserted:
     raiting_list.append(raiting)
 
-print(raiting_list)
+print(raiting_list)son
